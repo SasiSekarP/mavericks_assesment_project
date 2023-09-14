@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+.logoimage{
+    height: 62px;
+    width: 233px;
+}
+
+.navbar-container{
+    width: 100%;
+    background-color: #F8F8F8;
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+    padding-right: 50px;
+    justify-content: space-between;
+}
+
+.navlink{
+    color: rgba(85, 85, 85, 1);
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    align-items: flex-end;
+    column-gap: 5px;
+}
+
+.hovernavlink:hover{
+    border-bottom: 2px solid rgb(100, 100, 106);
+}
+
+.navbar-btn{
+    background-color: #07AA43;
+    border-radius: 4px;
+    padding: 9px 40px 10px 33px;
+    color: #FFF;
+font-family: Rubik;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+border: 0px;
+}
+
+.navlink-container{
+    display: flex;
+    column-gap: 35px;
+    align-items: center;
+}
+
+.active{
+    color: #9747FF;
+}

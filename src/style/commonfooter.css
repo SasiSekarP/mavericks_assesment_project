@@ -1,0 +1,29 @@
+.commonfootercontainer{
+     background-color: #163045;
+     display: flex;flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding: 2rem 0px;
+}
+
+.commonfooterheading{
+    color: white;
+    font-family: Rubik;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+}
+
+.commonfooteraddress{
+    text-align: center;
+}
+
+.commonfootersubheading{
+    color: white;
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 1rem 0px 10px;
+}

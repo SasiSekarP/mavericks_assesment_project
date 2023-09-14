@@ -1,0 +1,52 @@
+.AboutSoftomaticheading{
+    color: #9747FF;
+    font-family: Rubik;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    padding-top: 51px;
+    padding-bottom: 25px;
+}
+
+.AboutSoftomaticpara{
+    color: #555;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 0px 46px 50px;
+}
+
+.aboutpageimgcontainerleft,.aboutpageimgcontainerright{
+    width: 570px;
+    height: 570px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.aboutpageimgcontainerleft{
+    background-image: url('../asset/left\ 1.png');
+}
+
+.aboutpageimgcontainerright{
+    background-image: url('../asset/pexels-thể-phạm-17282406\ 1.png');
+}
+
+.aboutpageimgcontainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px 300px;
+}
